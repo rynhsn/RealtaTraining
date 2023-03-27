@@ -7,7 +7,7 @@ public class ExceptionCls
 {
     public List<CustomerStreamDTO> GetCustomersDb(GetCustomersDbParameterDTO poParameter)
     {
-        R_Exception loException = new R_Exception();
+        R_Exception loException = new();
         List<CustomerStreamDTO> loRtn = null;
         try
         {
@@ -19,7 +19,7 @@ public class ExceptionCls
             }
 
             loRtn = new List<CustomerStreamDTO>();
-            for (int lnCount = 1; lnCount <= poParameter.CustomerCount; lnCount++)
+            for (var lnCount = 1; lnCount <= poParameter.CustomerCount; lnCount++)
             {
                 loRtn.Add(new CustomerStreamDTO()
                     {
@@ -33,6 +33,7 @@ public class ExceptionCls
         {
             loException.Add(ex);
         }
+
         EndBlock:
         loException.ThrowExceptionIfErrors();
 
@@ -40,11 +41,9 @@ public class ExceptionCls
     }
 
 
-
-
     public CustomerDTO GetCustomerByIdDb(GetCustomerByIdDbParameterDTO poParameter)
     {
-        R_Exception loException = new R_Exception();
+        R_Exception loException = new();
         CustomerDTO loRtn = null;
         try
         {
@@ -59,6 +58,7 @@ public class ExceptionCls
         {
             loException.Add(ex);
         }
+
         EndBlock:
         loException.ThrowExceptionIfErrors();
 
