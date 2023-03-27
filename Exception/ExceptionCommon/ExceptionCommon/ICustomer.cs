@@ -5,6 +5,6 @@ namespace ExceptionCommon
     public interface ICustomer
     {
         IAsyncEnumerable<CustomerStreamDTO> GetCustomersList(GetCustomersParameterDTO poParameter);
-        CustomerResultDTO GetCustomerByTd(GetCustomerByIdParameterDTO poParameter);
+        CustomerResultDTO GetCustomerById(GetCustomerByIdParameterDTO poParameter);
     }
 }

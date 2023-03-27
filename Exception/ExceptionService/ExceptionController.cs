@@ -11,11 +11,13 @@ namespace ExceptionService;
 public class ExceptionController: ControllerBase, ICustomer
 {
     [HttpPost]
-    public CustomerResultDTO GetCustomerByTd(GetCustomerByIdParameterDTO poParameter)
+    public CustomerResultDTO GetCustomerById(GetCustomerByIdParameterDTO poParameter)
     {
         R_Exception loException = new R_Exception();
         CustomerResultDTO loRtn = null;
         ExceptionCls loCls = null;
+        GetCustomersDbParameterDTO loParameter;
+        
         try
         {
             loRtn = new CustomerResultDTO();
