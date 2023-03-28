@@ -46,6 +46,7 @@ public class ContextController : ControllerBase, IContextProgram
         List<SalesStreamDTO> loSalesList = loCls.GetSalesListDb(poParameter);
         foreach (SalesStreamDTO item in loSalesList)
         {
+            await Task.Delay(1000);
             yield return item;
         }
     }
@@ -86,6 +87,7 @@ public class ContextController : ControllerBase, IContextProgram
         List<OrderStreamDTO> loOrderList = loCls.GetOrderListDb(poParameter);
         foreach (OrderStreamDTO item in loOrderList)
         {
+            await Task.Delay(1000);
             yield return item;
         }
     }
