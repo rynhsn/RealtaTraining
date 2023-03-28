@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextService", "ContextSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Context", "API-Context\API-Context.csproj", "{768C1283-4616-49E2-8283-BBE6BF2DC5BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextConsole", "ContextConsole\ContextConsole.csproj", "{1C6A02DE-DA42-4214-96E4-80D6A5493BEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{768C1283-4616-49E2-8283-BBE6BF2DC5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{768C1283-4616-49E2-8283-BBE6BF2DC5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{768C1283-4616-49E2-8283-BBE6BF2DC5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6A02DE-DA42-4214-96E4-80D6A5493BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6A02DE-DA42-4214-96E4-80D6A5493BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6A02DE-DA42-4214-96E4-80D6A5493BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6A02DE-DA42-4214-96E4-80D6A5493BEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

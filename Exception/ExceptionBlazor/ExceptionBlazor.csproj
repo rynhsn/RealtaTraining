@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ExceptionCommon\ExceptionCommon\ExceptionCommon.csproj" />
+    <ProjectReference Include="..\ExceptionCommon\ExceptionCommon.csproj" />
   </ItemGroup>
 
   <ItemGroup>

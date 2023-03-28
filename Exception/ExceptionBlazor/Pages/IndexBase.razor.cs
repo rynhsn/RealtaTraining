@@ -33,9 +33,9 @@ namespace ExceptionBlazor.Pages
 
                 httpClient = R_HTTPClient.R_GetInstanceWithName("DEFAULT");
 
-                customers = await R_HTTPClientWrapper.R_APIRequestStreamingObject<CustomerStreamDTO, GetCustomersParameterDTO>("api/Exception", nameof(ICustomer.GetCustomersList), loParameter, plSendWithContext: false, plSendWithToken: false);
+                // customers = await R_HTTPClientWrapper.R_APIRequestStreamingObject<CustomerStreamDTO, GetCustomersParameterDTO>("api/Exception", nameof(ICustomer.GetCustomersList), loParameter, plSendWithContext: false, plSendWithToken: false);
 
-                //_ = await R_HTTPClientWrapper.R_APIRequestStreamingObject<CustomerStreamDTO, GetCustomersParameterDTO>("api/Exception", nameof(ICustomer.GetCustomersList), loParameter, plSendWithContext: false, plSendWithToken: false, poNotify:this);
+                _ = await R_HTTPClientWrapper.R_APIRequestStreamingObject<CustomerStreamDTO, GetCustomersParameterDTO>("api/Exception", nameof(ICustomer.GetCustomersList), loParameter, plSendWithContext: false, plSendWithToken: false, poNotify:this);
 
 
                 //_ = await httpClient.R_APIRequestStreamingObject<Person>(pcRequest: "api/HugeData/GetAsyncPerson",

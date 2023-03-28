@@ -12,6 +12,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\ExceptionBack\ExceptionBack.csproj" />
+      <ProjectReference Include="..\ExceptionCommon\ExceptionCommon.csproj" />
       <ProjectReference Include="..\ExceptionCommon\ExceptionCommon\ExceptionCommon.csproj" />
     </ItemGroup>
 
