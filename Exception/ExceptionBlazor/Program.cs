@@ -14,7 +14,7 @@ var host = builder.Build();
 
 var httpClient = new HttpClient
 {
-    BaseAddress = new Uri("http://localhost:7183/")
+    BaseAddress = new Uri("http://localhost:5285/")
 };
 
 R_HTTPClient.R_CreateInstanceWithName("DEFAULT", httpClient, null);
