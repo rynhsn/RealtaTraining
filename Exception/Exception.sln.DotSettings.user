@@ -17,4 +17,5 @@
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CTrainingRealta_005CLatihan_005CRuntimeLibrary_005CBack_005CR_005FSecurity_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CTrainingRealta_005CLatihan_005CRuntimeLibrary_005CCommon_005CR_005FCommonFrontBackAPI_002Edll/@EntryIndexedValue">True</s:Boolean>
 	
+	
 	</wpf:ResourceDictionary>

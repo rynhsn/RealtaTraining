@@ -16,7 +16,7 @@ public class ExceptionController: ControllerBase, ICustomer
         R_Exception loException = new R_Exception();
         CustomerResultDTO loRtn = null;
         ExceptionCls loCls = null;
-        GetCustomersDbParameterDTO loParameter;
+        // GetCustomersDbParameterDTO loParameter;
         
         try
         {

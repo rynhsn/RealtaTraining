@@ -6,11 +6,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Reference Include="R_APICommonDTO">
-        <HintPath>..\..\..\RuntimeLibrary\Common\R_APICommonDTO.dll</HintPath>
-      </Reference>
       <Reference Include="R_CommonFrontBackAPI">
-        <HintPath>..\..\..\RuntimeLibrary\Common\R_CommonFrontBackAPI.dll</HintPath>
+        <HintPath>..\..\RuntimeLibrary\Common\R_CommonFrontBackAPI.dll</HintPath>
       </Reference>
     </ItemGroup>
 
