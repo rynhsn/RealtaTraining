@@ -69,16 +69,48 @@ public class CRUDController : ControllerBase, ICRUD
     [HttpPost]
     public R_ServiceSaveResultDTO<CustomerDTO> R_ServiceSave(R_ServiceSaveParameterDTO<CustomerDTO> poParameter)
     {
-        throw new NotImplementedException();
+        R_Exception loException = new R_Exception();
+        R_ServiceSaveResultDTO<CustomerDTO> loRtn = null;
+        CRUDCls loCls;
+
+        try
+        {
+            loCls = new CRUDCls();
+            loRtn = new R_ServiceSaveResultDTO<CustomerDTO>();
+            loRtn.data = loCls.R_Save(poParameter.Entity, poParameter.CRUDMode);
+        }
+        catch (Exception ex)
+        {
+            loException.Add(ex);
+        }
+        EndBlock:
+        loException.ThrowExceptionIfErrors();
+        return loRtn;
     }
     
     [HttpPost]
     public R_ServiceDeleteResultDTO R_ServiceDelete(R_ServiceDeleteParameterDTO<CustomerDTO> poParameter)
     {
-        throw new NotImplementedException();
+        R_Exception loException = new R_Exception();
+        R_ServiceDeleteResultDTO loRtn = null;
+        CRUDCls loCls;
+        try
+        {
+            loCls = new CRUDCls();
+            loRtn = new R_ServiceDeleteResultDTO();
+            loCls.R_Delete(poParameter.Entity);
+        }
+        catch (Exception ex)
+        {
+            loException.Add(ex); 
+        }
+        
+        EndBlock:
+        loException.ThrowExceptionIfErrors();
+
+        return loRtn;
     }
-    
-    
+
     private async IAsyncEnumerable<CustomerStreamDTO> GetCustomerStream(List<CustomerStreamDTO> poParameter)
     {
         foreach (CustomerStreamDTO item in poParameter)

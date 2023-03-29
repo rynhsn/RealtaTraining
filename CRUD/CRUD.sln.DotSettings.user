@@ -15,4 +15,9 @@
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CTrainingRealta_005CLatihan_005CRuntimeLibrary_005CBack_005CR_005FLogHeaderMiddleware_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CTrainingRealta_005CLatihan_005CRuntimeLibrary_005CBack_005CR_005FPluginsCommon_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CTrainingRealta_005CLatihan_005CRuntimeLibrary_005CBack_005CR_005FSecurity_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=CRUDBackResources_002FCRUDBackResources_005Fmsgrsc/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/OrderByFullPath/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/ShowComments/@EntryValue">True</s:Boolean>
+	
 	</wpf:ResourceDictionary>
