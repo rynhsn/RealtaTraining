@@ -4,6 +4,6 @@ namespace TranScopeCommon
 {
     public class TranScopeResultDTO : R_APIResultBaseDTO
     {
-        public TranScopeDataDTO data;
+        public TranScopeDataDTO data { get; set; }
     }
 }
