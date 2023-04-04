@@ -1,0 +1,10 @@
+using System.Collections.Generic;
+using R_CommonFrontBackAPI;
+
+namespace GSM00200Commmon
+{
+    public interface IGSM00200 : R_IServiceCRUDBase<GSM00200DTO>
+    {
+        IAsyncEnumerable<GSM00200DTOnon> GetTableHDList();
+    }
+}

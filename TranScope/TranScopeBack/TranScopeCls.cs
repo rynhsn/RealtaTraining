@@ -62,6 +62,56 @@ public class TranScopeCls
         return loRtn;
     }
 
+    public TranScopeDataDTO ProcessEachTransactionDB(int poProcessRecordCount)
+    {
+        R_Exception loException = new R_Exception();
+        TranScopeDataDTO loRtn = new TranScopeDataDTO();
+        List<CustomerDbDTO> Customers;
+        int lnCount;
+
+        try
+        {
+            Customers = GetAllCustomer(poProcessRecordCount);
+            lnCount = 0;
+            foreach (CustomerDbDTO item in Customers)
+            {
+                try
+                {
+                    using (TransactionScope TranScope = new TransactionScope(TransactionScopeOption.Required))
+                    {
+                        RemoveAllCustomer(Customers);
+                        AddAllCopyCustomer(Customers);
+
+                        if ((lnCount % 3) == 0)
+                        {
+                            loException.Add("001", $"Error: at number {lnCount.ToString()} of {poProcessRecordCount} records");
+                            goto EndDetail;
+                        }
+                        
+                        TranScope.Complete();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    loException.Add(ex);
+                }
+                EndDetail:
+                lnCount++;
+
+            }
+
+            loRtn.IsSuccess = true;
+        }
+        catch (Exception ex)
+        {
+            loException.Add(ex);
+        }
+
+        EndBlock:
+        loException.ThrowExceptionIfErrors();
+        return loRtn;
+    }
+
     private void RemoveAllCustomer1(List<CustomerDbDTO> poCustomers)
     {
         R_Exception loException = new R_Exception();
@@ -230,7 +280,6 @@ public class TranScopeCls
         loException.ThrowExceptionIfErrors();
     }
 
-
     private void RemoveEachCustomer(CustomerDbDTO poCustomer)
     {
         R_Exception loException = new R_Exception();
@@ -297,6 +346,7 @@ public class TranScopeCls
                 loCommand.CommandText = lcCmd;
                 loDbParameter.Value = $"Remove Customer {poCustomer.CustomerID}";
                 loDb.SqlExecNonQuery(loConn, loCommand, false);
+                // TransScope.Complete();
             }
         }
         catch (Exception ex)

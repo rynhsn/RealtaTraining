@@ -56,4 +56,28 @@ public class TranScopeController : ControllerBase, ITranScope
         
         return loRtn;
     }
+    
+    [HttpPost]
+    public TranScopeResultDTO ProcessEachTransaction(int poProcessRecordCount)
+    {
+        R_Exception loException = new R_Exception();
+        TranScopeCls loCls;
+        TranScopeResultDTO loRtn = null;
+
+        try
+        {
+            loCls = new TranScopeCls();
+            loRtn = new TranScopeResultDTO();
+            loRtn.data = loCls.ProcessEachTransactionDB(poProcessRecordCount);
+        }
+        catch (Exception ex)
+        {
+            loException.Add(ex);
+        }
+        
+        EndBlock:
+        loException.ThrowExceptionIfErrors();
+        
+        return loRtn;
+    }
 }
