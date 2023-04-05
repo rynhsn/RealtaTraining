@@ -1,4 +1,4 @@
-
+use Realta_DB
 select * from TestCustomer
 select * from TestCustomerLog
 select * from TestCopyCustomer
