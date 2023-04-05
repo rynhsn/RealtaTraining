@@ -85,7 +85,7 @@ public class TranScopeCls
                         AddLogEachCustomer(item);
                         AddEachCopyCustomer(item);
 
-                        if ((lnCount % 3) == 0)
+                        if ((lnCount % 4) == 0)
                         {
                             loException.Add("001", $"Error at {lnCount} data");
                             goto EndDetail;
@@ -254,7 +254,7 @@ public class TranScopeCls
             lnCount = 1;
             foreach (CustomerDbDTO item in poCustomers)
             {
-                if ((lnCount % 3) == 0)
+                if ((lnCount % 4) == 0)
                 {
                     loException.Add("001", $"Error at {lnCount} data");
                     goto EndBlock;
