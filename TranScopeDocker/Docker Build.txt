@@ -29,3 +29,12 @@ Create dan Deploy
 	docker compose -f docker-compose.API_TranScope.yml down
 
 http://localhost:5000/swagger/index.html
+
+
+masukkan ke hub
+=================================
+copy and rename > docker tag [nama image] [account]/[nama image]
+push            > docker push [account]/[nama image]
+
+docker tag api_transcope riyanhusen/api_transcope
+docker push riyanhusen/api_transcope
