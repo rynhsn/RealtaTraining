@@ -1,0 +1,31 @@
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\bin\Debug\netstandard2.1\SAB00900FrontResources.deps.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\bin\Debug\netstandard2.1\SAB00900FrontResources.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\bin\Debug\netstandard2.1\SAB00900FrontResources.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.SAB00900FrontResources_msgrsc.resources
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.csproj.GenerateResource.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.AssemblyInfo.cs
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\bin\Debug\netstandard2.1\id\SAB00900FrontResources.resources.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.SAB00900FrontResources_msgrsc.id.resources
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\id\SAB00900FrontResources.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\bin\Debug\netstandard2.1\SAB00900FrontResources.deps.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\bin\Debug\netstandard2.1\SAB00900FrontResources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\bin\Debug\netstandard2.1\SAB00900FrontResources.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\bin\Debug\netstandard2.1\id\SAB00900FrontResources.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.csproj.AssemblyReference.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.SAB00900FrontResources_msgrsc.resources
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.SAB00900FrontResources_msgrsc.id.resources
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.csproj.GenerateResource.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.AssemblyInfoInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.AssemblyInfo.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\id\SAB00900FrontResources.resources.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\id\SAB00900FrontResources.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00900FrontResources\obj\Debug\netstandard2.1\SAB00900FrontResources.pdb

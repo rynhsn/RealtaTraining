@@ -1,0 +1,51 @@
+D:\Realta NetCore Library\Training\Common\SAB00900Common\bin\Debug\netstandard2.1\SAB00900Common.deps.json
+D:\Realta NetCore Library\Training\Common\SAB00900Common\bin\Debug\netstandard2.1\SAB00900Common.dll
+D:\Realta NetCore Library\Training\Common\SAB00900Common\bin\Debug\netstandard2.1\SAB00900Common.pdb
+D:\Realta NetCore Library\Training\Common\SAB00900Common\bin\Debug\netstandard2.1\R_APICommon.dll
+D:\Realta NetCore Library\Training\Common\SAB00900Common\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\Realta NetCore Library\Training\Common\SAB00900Common\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Training\Common\SAB00900Common\bin\Debug\netstandard2.1\R_Security.dll
+D:\Realta NetCore Library\Training\Common\SAB00900Common\bin\Debug\netstandard2.1\R_ContextBackEnd.dll
+D:\Realta NetCore Library\Training\Common\SAB00900Common\bin\Debug\netstandard2.1\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Training\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Training\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Training\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Training\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.AssemblyInfo.cs
+D:\Realta NetCore Library\Training\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Training\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.csproj.CopyComplete
+D:\Realta NetCore Library\Training\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.dll
+D:\Realta NetCore Library\Training\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\SAB00900Common.deps.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\SAB00900Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\SAB00900Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_APICommon.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_Security.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_ContextBackEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.AssemblyInfo.cs
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.csproj.CopyComplete
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\SAB00900Common.deps.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\SAB00900Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\SAB00900Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_APICommon.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_Security.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_ContextBackEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\bin\Debug\netstandard2.1\R_ContextEnumAndInterface.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.csproj.AssemblyReference.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.AssemblyInfoInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.AssemblyInfo.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.csproj.CopyComplete
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00900Common\obj\Debug\netstandard2.1\SAB00900Common.pdb

@@ -1,0 +1,16 @@
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\bin\Debug\netstandard2.1\SAB00100FrontResources.deps.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\bin\Debug\netstandard2.1\SAB00100FrontResources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\bin\Debug\netstandard2.1\SAB00100FrontResources.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\bin\Debug\netstandard2.1\id\SAB00100FrontResources.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.csproj.AssemblyReference.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.SAB00100FrontResources_msgrsc.resources
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.SAB00100FrontResources_msgrsc.id.resources
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.csproj.GenerateResource.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.AssemblyInfoInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.AssemblyInfo.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\id\SAB00100FrontResources.resources.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\id\SAB00100FrontResources.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Resources\SAB00100FrontResources\obj\Debug\netstandard2.1\SAB00100FrontResources.pdb

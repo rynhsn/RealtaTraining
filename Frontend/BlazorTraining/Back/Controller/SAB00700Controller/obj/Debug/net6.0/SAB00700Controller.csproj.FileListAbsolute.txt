@@ -1,0 +1,100 @@
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.deps.json
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.pdb
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\R_APIBackEnd.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\R_APICommon.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\SAB00700Back.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\SAB00700Common.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\R_APICommonDTO.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\R_ContextBackEnd.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\R_Security.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\SAB00700Back.pdb
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\bin\Debug\net6.0\SAB00700Common.pdb
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.AssemblyInfo.cs
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.CopyComplete
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\refint\SAB00700Controller.dll
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.pdb
+D:\Realta NetCore Library\Training\Controllers\SAB00700Controller\obj\Debug\net6.0\ref\SAB00700Controller.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.deps.json
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.pdb
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\R_APIBackEnd.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\R_APICommon.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Back.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Common.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\R_APICommonDTO.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\R_ContextBackEnd.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\R_Security.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Back.pdb
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Common.pdb
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.AssemblyInfo.cs
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.CopyComplete
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\refint\SAB00700Controller.dll
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.pdb
+D:\Realta NetCore Library\Training\Controller\SAB00700Controller\obj\Debug\net6.0\ref\SAB00700Controller.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.deps.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_APIBackEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_APICommon.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Back.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_APICommonDTO.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_ContextBackEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_Security.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Back.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.AssemblyInfo.cs
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.CopyComplete
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\refint\SAB00700Controller.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\ref\SAB00700Controller.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\id\R_APIBackEnd.resources.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\ja\R_APIBackEnd.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.deps.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Controller.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_APIBackEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_APICommon.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_CommonFrontBackAPI.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Back.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_APICommonDTO.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_ContextBackEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_Security.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\R_ContextEnumAndInterface.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Back.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\SAB00700Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\id\R_APIBackEnd.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\bin\Debug\net6.0\ja\R_APIBackEnd.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.AssemblyReference.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.AssemblyInfoInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.AssemblyInfo.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.csproj.CopyComplete
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\refint\SAB00700Controller.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\SAB00700Controller.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00700Controller\obj\Debug\net6.0\ref\SAB00700Controller.dll

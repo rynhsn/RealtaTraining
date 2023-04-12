@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zp3PXgewWNyLvKpyqQJUKnMPMf7kyKsSadVIGFTwoKY=",
+  "Source": "SAB00600Front",
+  "BasePath": "_content/SAB00600Front",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SAB00600Front\\wwwroot",
+      "Source": "SAB00600Front",
+      "ContentRoot": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\Front\\SAB00600Front\\wwwroot\\",
+      "BasePath": "_content/SAB00600Front",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

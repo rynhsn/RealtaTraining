@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Realta NetCore Library\\BlazorClientHelper\\BlazorClientHelper.csproj": {}
+  },
+  "projects": {
+    "D:\\Realta NetCore Library\\BlazorClientHelper\\BlazorClientHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\BlazorClientHelper\\BlazorClientHelper.csproj",
+        "projectName": "SAB01400Front",
+        "projectPath": "D:\\Realta NetCore Library\\BlazorClientHelper\\BlazorClientHelper.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Front\\SAB01400Front\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Common\\SAB00700Common\\SAB00700Common.csproj": {
+                "projectPath": "D:\\Common\\SAB00700Common\\SAB00700Common.csproj"
+              },
+              "D:\\Common\\SAB01400Common\\SAB01400Common.csproj": {
+                "projectPath": "D:\\Common\\SAB01400Common\\SAB01400Common.csproj"
+              },
+              "D:\\Learn.Components\\Learn.Components.csproj": {
+                "projectPath": "D:\\Learn.Components\\Learn.Components.csproj"
+              },
+              "D:\\R_APIClient\\R_APIClient.csproj": {
+                "projectPath": "D:\\R_APIClient\\R_APIClient.csproj"
+              },
+              "D:\\R_BusinessObjectFront\\R_BusinessObjectFront.csproj": {
+                "projectPath": "D:\\R_BusinessObjectFront\\R_BusinessObjectFront.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

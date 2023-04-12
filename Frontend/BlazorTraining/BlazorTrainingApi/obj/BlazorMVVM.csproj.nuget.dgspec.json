@@ -1,0 +1,883 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj": {}
+  },
+  "projects": {
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00600Back\\SAB00600Back.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00600Back\\SAB00600Back.csproj",
+        "projectName": "SAB00600Back",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00600Back\\SAB00600Back.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00600Back\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00600Common\\SAB00600Common.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00600Common\\SAB00600Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00700Back\\SAB00700Back.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00700Back\\SAB00700Back.csproj",
+        "projectName": "SAB00700Back",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00700Back\\SAB00700Back.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00700Back\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00700Common\\SAB00700Common.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00700Common\\SAB00700Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00900Back\\SAB00900Back.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00900Back\\SAB00900Back.csproj",
+        "projectName": "SAB00900Back",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00900Back\\SAB00900Back.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00900Back\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00900Common\\SAB00900Common.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00900Common\\SAB00900Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB01300Back\\SAB01300Back.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB01300Back\\SAB01300Back.csproj",
+        "projectName": "SAB01300Back",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB01300Back\\SAB01300Back.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB01300Back\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00600Common\\SAB00600Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00600Common\\SAB00600Common.csproj",
+        "projectName": "SAB00600Common",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00600Common\\SAB00600Common.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00600Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00700Common\\SAB00700Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00700Common\\SAB00700Common.csproj",
+        "projectName": "SAB00700Common",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00700Common\\SAB00700Common.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00700Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00900Common\\SAB00900Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00900Common\\SAB00900Common.csproj",
+        "projectName": "SAB00900Common",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00900Common\\SAB00900Common.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00900Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj",
+        "projectName": "SAB01300Common",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB01300Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00600Controller\\SAB00600Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00600Controller\\SAB00600Controller.csproj",
+        "projectName": "SAB00600Controller",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00600Controller\\SAB00600Controller.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00600Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00600Back\\SAB00600Back.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00600Back\\SAB00600Back.csproj"
+              },
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00600Common\\SAB00600Common.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00600Common\\SAB00600Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00700Controller\\SAB00700Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00700Controller\\SAB00700Controller.csproj",
+        "projectName": "SAB00700Controller",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00700Controller\\SAB00700Controller.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00700Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00700Back\\SAB00700Back.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00700Back\\SAB00700Back.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00900Controller\\SAB00900Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00900Controller\\SAB00900Controller.csproj",
+        "projectName": "SAB00900Controller",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00900Controller\\SAB00900Controller.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00900Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00900Back\\SAB00900Back.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB00900Back\\SAB00900Back.csproj"
+              },
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00900Common\\SAB00900Common.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB00900Common\\SAB00900Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB01300Controller\\SAB01300Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB01300Controller\\SAB01300Controller.csproj",
+        "projectName": "SAB01300Controller",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB01300Controller\\SAB01300Controller.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB01300Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB01300Back\\SAB01300Back.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Back\\SAB01300Back\\SAB01300Back.csproj"
+              },
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj",
+        "projectName": "BlazorTrainingApi",
+        "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\BlazorTrainingApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00600Controller\\SAB00600Controller.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00600Controller\\SAB00600Controller.csproj"
+              },
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00700Controller\\SAB00700Controller.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00700Controller\\SAB00700Controller.csproj"
+              },
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00900Controller\\SAB00900Controller.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB00900Controller\\SAB00900Controller.csproj"
+              },
+              "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB01300Controller\\SAB01300Controller.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Materi Training\\BlazorTraining\\Back\\Controller\\SAB01300Controller\\SAB01300Controller.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Model.deps.json
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Model.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Model.pdb
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_APIClient.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_BlazorFrontEnd.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_BusinessObjectFront.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Common.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_ContextFrontEnd.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_AuthenticationEnumAndInterface.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_BlazorFrontEnd.pdb
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Common.pdb
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.AssemblyInfo.cs
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.csproj.CopyComplete
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.dll
+D:\Realta NetCore Library\Training\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Model.deps.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Model.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Model.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_APIClient.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_BlazorFrontEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_BusinessObjectFront.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_AuthenticationEnumAndInterface.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_ContextFrontEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.AssemblyInfo.cs
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.csproj.CopyComplete
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Model.deps.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Model.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Model.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_APIClient.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_BlazorFrontEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_BusinessObjectFront.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_ContextEnumAndInterface.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_AuthenticationEnumAndInterface.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\R_ContextFrontEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\bin\Debug\netstandard2.1\SAB01300Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.csproj.AssemblyReference.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.AssemblyInfoInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.AssemblyInfo.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.csproj.CopyComplete
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\ViewModel\SAB01300Model\obj\Debug\netstandard2.1\SAB01300Model.pdb

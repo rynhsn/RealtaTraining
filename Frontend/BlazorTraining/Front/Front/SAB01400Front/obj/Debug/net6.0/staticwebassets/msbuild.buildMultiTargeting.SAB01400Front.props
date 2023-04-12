@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SAB01400Front.props" />
+</Project>

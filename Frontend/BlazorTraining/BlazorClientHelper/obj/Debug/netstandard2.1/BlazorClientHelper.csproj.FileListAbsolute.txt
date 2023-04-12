@@ -1,0 +1,32 @@
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\BlazorClientHelper.deps.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\BlazorClientHelper.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\BlazorClientHelper.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_BlazorFrontEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_ContextFrontEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.AssemblyInfo.cs
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.csproj.CopyComplete
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\BlazorClientHelper.deps.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\BlazorClientHelper.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\BlazorClientHelper.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_BlazorFrontEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_ContextFrontEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\bin\Debug\netstandard2.1\R_ContextEnumAndInterface.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.csproj.AssemblyReference.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.AssemblyInfoInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.AssemblyInfo.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.csproj.CopyComplete
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorClientHelper\obj\Debug\netstandard2.1\BlazorClientHelper.pdb

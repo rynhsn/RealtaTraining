@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Realta NetCore Library\\Front\\GSM00100Front\\GSM00100Front.csproj": {}
+  },
+  "projects": {
+    "D:\\Realta NetCore Library\\Front\\GSM00100Front\\GSM00100Front.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Realta NetCore Library\\Front\\GSM00100Front\\GSM00100Front.csproj",
+        "projectName": "SAB00600Front",
+        "projectPath": "D:\\Realta NetCore Library\\Front\\GSM00100Front\\GSM00100Front.csproj",
+        "packagesPath": "C:\\Users\\sihol\\.nuget\\packages\\",
+        "outputPath": "D:\\Realta NetCore Library\\Training\\Front\\SAB00600Front\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sihol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {},
+          "https://www1.realta.net/realtanuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Library\\R_BlazorFrontEnd.Controls\\R_BlazorFrontEnd.Controls.csproj": {
+                "projectPath": "D:\\Library\\R_BlazorFrontEnd.Controls\\R_BlazorFrontEnd.Controls.csproj"
+              },
+              "D:\\Northwind\\CustomerCommon\\CustomerCommon.csproj": {
+                "projectPath": "D:\\Northwind\\CustomerCommon\\CustomerCommon.csproj"
+              },
+              "D:\\Realta NetCore Library\\Front\\CustomerModels\\CustomerModels.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\Front\\CustomerModels\\CustomerModels.csproj"
+              },
+              "D:\\Realta NetCore Library\\ViewModel\\SAB00600Model\\SAB00600Model.csproj": {
+                "projectPath": "D:\\Realta NetCore Library\\ViewModel\\SAB00600Model\\SAB00600Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Telerik.UI.for.Blazor": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

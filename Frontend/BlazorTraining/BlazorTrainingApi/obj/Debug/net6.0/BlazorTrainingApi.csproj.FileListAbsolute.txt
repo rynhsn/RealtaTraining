@@ -1,0 +1,232 @@
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\appsettings.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.exe
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.deps.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.runtimeconfig.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.AssemblyInfo.cs
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets\msbuild.BlazorTrainingApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorTrainingApi.props
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorTrainingApi.props
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorTrainingApi.props
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\scopedcss\bundle\BlazorTrainingApi.styles.css
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.csproj.CopyComplete
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\refint\BlazorTrainingApi.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.genruntimeconfig.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\ref\BlazorTrainingApi.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Castle.Core.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\log4net.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Mindbox.Data.Linq.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Mindbox.Expressions.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BackCollectionNuGet.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\CommonCollectionNuGet.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Scrutor.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_APIBackEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ContextAPIMiddleware.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ExceptionAPIMiddleware.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_APICommon.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_APICommonDTO.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ContextBackEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_Security.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_APIStartUp.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_AuthenticationBack.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_AuthenticationEnumAndInterface.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ControllerPlugins.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_PluginsCommon.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Back.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Controller.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Controller.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Back.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Back.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Controller.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Back.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Controller.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Back.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Controller.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BackHelper.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Controller.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Controller.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Controller.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Back.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Back.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Back.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BackHelper.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\id\R_APIBackEnd.resources.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\ja\R_APIBackEnd.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\appsettings.Development.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\appsettings.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.exe
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.deps.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.runtimeconfig.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BlazorTrainingApi.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Castle.Core.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\log4net.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Mindbox.Data.Linq.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Mindbox.Expressions.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BackCollectionNuGet.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\CommonCollectionNuGet.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Scrutor.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_APIBackEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_APIStartUp.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_CommonFrontBackAPI.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ContextAPIMiddleware.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ControllerPlugins.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ExceptionAPIMiddleware.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Back.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Controller.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Back.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Controller.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Back.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Controller.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Back.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Controller.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_APICommon.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_APICommonDTO.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BackHelper.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ContextBackEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_AuthenticationBack.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_ContextEnumAndInterface.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_PluginsCommon.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_Security.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\R_AuthenticationEnumAndInterface.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Controller.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Controller.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Controller.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Controller.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Back.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00600Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Back.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00700Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Back.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00900Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Back.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB01300Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\BackHelper.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\id\R_APIBackEnd.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\ja\R_APIBackEnd.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.csproj.AssemblyReference.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.AssemblyInfoInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.AssemblyInfo.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.MvcApplicationPartsAssemblyInfo.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.MvcApplicationPartsAssemblyInfo.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets\msbuild.BlazorTrainingApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorTrainingApi.props
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorTrainingApi.props
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorTrainingApi.props
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\scopedcss\bundle\BlazorTrainingApi.styles.css
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.csproj.CopyComplete
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\refint\BlazorTrainingApi.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\BlazorTrainingApi.genruntimeconfig.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\obj\Debug\net6.0\ref\BlazorTrainingApi.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00100Back.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00100Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00100Controller.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00100Back.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00100Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingApi\bin\Debug\net6.0\SAB00100Controller.pdb

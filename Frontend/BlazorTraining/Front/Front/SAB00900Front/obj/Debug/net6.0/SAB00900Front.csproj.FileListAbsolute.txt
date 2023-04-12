@@ -1,0 +1,115 @@
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_BlazorFrontEnd.Controls.staticwebassets.runtime.json
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.staticwebassets.runtime.json
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.deps.json
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.pdb
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_APIClient.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_APICommonDTO.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_BlazorFrontEnd.Controls.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_BlazorFrontEnd.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_BusinessObjectFront.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_ContextFrontEnd.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_AuthenticationEnumAndInterface.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_BlazorFrontEnd.Controls.pdb
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\R_BlazorFrontEnd.pdb
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\id\R_BlazorFrontEnd.Controls.resources.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.AssemblyInfo.cs
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.SAB00900Front.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.build.SAB00900Front.props
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SAB00900Front.props
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SAB00900Front.props
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets.build.json
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets.development.json
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\scopedcss\bundle\SAB00900Front.styles.css
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.csproj.CopyComplete
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\refint\SAB00900Front.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.pdb
+D:\Realta NetCore Library\Training\Front\SAB00900Front\obj\Debug\net6.0\ref\SAB00900Front.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Model.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Model.pdb
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Common.dll
+D:\Realta NetCore Library\Training\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.csproj.AssemblyReference.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.GeneratedMSBuildEditorConfig.editorconfig
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.AssemblyInfoInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.AssemblyInfo.cs
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.csproj.CoreCompileInputs.cache
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\refint\SAB00900Front.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.staticwebassets.runtime.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.deps.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_APIClient.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_APICommonDTO.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_BlazorFrontEnd.Controls.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_BlazorFrontEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_BusinessObjectFront.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_CommonFrontBackAPI.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Common.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Model.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_ContextEnumAndInterface.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_AuthenticationEnumAndInterface.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_ContextFrontEnd.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Model.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Common.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.SAB00900Front.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.build.SAB00900Front.props
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SAB00900Front.props
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SAB00900Front.props
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets.build.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets.development.json
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\scopedcss\bundle\SAB00900Front.styles.css
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.csproj.CopyComplete
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\ref\SAB00900Front.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900FrontResources.dll
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900FrontResources.pdb
+D:\Realta NetCore Library\Materi Training\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\id\SAB00900FrontResources.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.staticwebassets.runtime.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.deps.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Front.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_APIClient.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_APICommonDTO.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_BlazorFrontEnd.Controls.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_BlazorFrontEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_BusinessObjectFront.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_CommonFrontBackAPI.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Common.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900FrontResources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Model.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_ContextEnumAndInterface.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_AuthenticationEnumAndInterface.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\R_ContextFrontEnd.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900FrontResources.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Model.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\SAB00900Common.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\bin\Debug\net6.0\id\SAB00900FrontResources.resources.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.csproj.AssemblyReference.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.AssemblyInfoInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.AssemblyInfo.cs
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.SAB00900Front.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.build.SAB00900Front.props
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SAB00900Front.props
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SAB00900Front.props
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets.build.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\staticwebassets.development.json
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\scopedcss\bundle\SAB00900Front.styles.css
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.csproj.CopyComplete
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\refint\SAB00900Front.dll
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\SAB00900Front.pdb
+D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00900Front\obj\Debug\net6.0\ref\SAB00900Front.dll
