@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using R_APIClient;
 using R_BlazorFrontEnd.Exceptions;
@@ -22,14 +23,15 @@ namespace SAB00200Model
         {
         }
 
+        #region GetAllEmployee
         public SAB00100ListEmployeeDTO GetAllEmployee()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public SAB00100ListEmployeeOriginalDTO GetAllEmployeeOriginal()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public async Task<SAB00100ListEmployeeOriginalDTO> GetAllEmployeeOriginalAsync()
@@ -55,5 +57,37 @@ namespace SAB00200Model
 
             return loRtn;
         }
+        #endregion
+            
+        #region GetAllEmployeeStream
+        public IAsyncEnumerable<SAB00100DTO> GetAllEmployeeStream()
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<List<SAB00100DTO>> GetAllEmployeeStreamListAsync()
+        {
+            var loEx = new R_Exception();
+            List<SAB00100DTO> loResult = null;
+
+            try
+            {
+                R_HTTPClientWrapper.httpClientName = _HttpClientName;
+                loResult = await R_HTTPClientWrapper.R_APIRequestStreamingObject<SAB00100DTO>(
+                    _RequestServiceEndPoint,
+                    nameof(ISAB00100.GetAllEmployeeStream),
+                    _SendWithContext,
+                    _SendWithToken);
+            }
+            catch (Exception ex)
+            {
+                loEx.Add(ex);
+            }
+
+            loEx.ThrowExceptionIfErrors();
+
+            return loResult;
+        }
+        #endregion
     }
 }

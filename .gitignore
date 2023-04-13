@@ -1,3 +1,5 @@
 Frontend/BlazorTraining.zip
 **/bin
 **/obj
+**/.idea
+**/.vs

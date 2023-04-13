@@ -18,9 +18,13 @@ namespace SAB00200Model
 
             try
             {
-                var loResult = await _model.GetAllEmployeeOriginalAsync();
+                //tanpa stream
+                // var loResult = await _model.GetAllEmployeeOriginalAsync();
+                // EmployeeList = new ObservableCollection<SAB00100DTO>(loResult.Data);
 
-                EmployeeList = new ObservableCollection<SAB00100DTO>(loResult.Data);
+                //dengan stream
+                var loResult = await _model.GetAllEmployeeStreamListAsync();
+                EmployeeList = new ObservableCollection<SAB00100DTO>(loResult);
             }
             catch (System.Exception ex)
             {
