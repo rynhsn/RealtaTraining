@@ -27,6 +27,11 @@ namespace SAB00100Model
             throw new NotImplementedException();
         }
 
+        public SAB00100ListEmployeeOriginalDTO GetAllEmployeeOriginal()
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<SAB00100ListEmployeeDTO> GetAllEmployeeAsync()
         {
             var loEx = new R_Exception();

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Back\\Back\\SAB01300Back\\SAB01300Back.csproj",
+      "projectUniqueName": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Back\\Back\\SAB01300Back\\SAB01300Back.csproj",
       "projectName": "SAB01300Back",
-      "projectPath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Back\\Back\\SAB01300Back\\SAB01300Back.csproj",
+      "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Back\\Back\\SAB01300Back\\SAB01300Back.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Back\\Back\\SAB01300Back\\obj\\",
+      "outputPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Back\\Back\\SAB01300Back\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,8 +55,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj": {
-              "projectPath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj"
+            "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj": {
+              "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Back\\Common\\SAB01300Common\\SAB01300Common.csproj"
             }
           }
         }

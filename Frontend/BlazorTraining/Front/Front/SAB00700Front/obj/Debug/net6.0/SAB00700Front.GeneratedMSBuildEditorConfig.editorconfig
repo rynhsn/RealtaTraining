@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = SAB00700Front
 build_property.RootNamespace = SAB00700Front
-build_property.ProjectDir = D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00700Front\
+build_property.ProjectDir = D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Front\Front\SAB00700Front\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Front\Front\SAB00700Front
+build_property.MSBuildProjectDirectory = D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Front\Front\SAB00700Front
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/TrainingRealta/Latihan/Frontend/BlazorTraining/Front/Front/SAB00700Front/SAB00700.razor]
+[D:/TrainingRealta/RealtaTraining/Frontend/BlazorTraining/Front/Front/SAB00700Front/SAB00700.razor]
 build_metadata.AdditionalFiles.TargetPath = U0FCMDA3MDAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TrainingRealta/Latihan/Frontend/BlazorTraining/Front/Front/SAB00700Front/_Imports.razor]
+[D:/TrainingRealta/RealtaTraining/Frontend/BlazorTraining/Front/Front/SAB00700Front/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

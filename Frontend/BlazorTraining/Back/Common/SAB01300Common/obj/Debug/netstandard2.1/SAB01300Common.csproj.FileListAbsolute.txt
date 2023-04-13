@@ -50,3 +50,16 @@ D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj
 D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.csproj.CopyComplete
 D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.dll
 D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.pdb
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\bin\Debug\netstandard2.1\SAB01300Common.deps.json
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\bin\Debug\netstandard2.1\SAB01300Common.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\bin\Debug\netstandard2.1\SAB01300Common.pdb
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.csproj.AssemblyReference.cache
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.AssemblyInfoInputs.cache
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.AssemblyInfo.cs
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.csproj.CopyComplete
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB01300Common\obj\Debug\netstandard2.1\SAB01300Common.pdb

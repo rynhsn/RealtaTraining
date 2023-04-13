@@ -1,20 +1,12 @@
 {
   "Version": 1,
-  "Hash": "JFUQuEWGGFZd0FZIB3rUSrwNjg5ZEPs62JpREIwXWqI=",
+  "Hash": "ShvU2K2Yf7Z9+z+UBza458qmIAyQZ8mSmH5WE2hATKE=",
   "Source": "SAB01400Front",
   "BasePath": "_content/SAB01400Front",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "SAB01400Front\\wwwroot",
-      "Source": "SAB01400Front",
-      "ContentRoot": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\Front\\SAB01400Front\\wwwroot\\",
-      "BasePath": "_content/SAB01400Front",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": [
     {
       "Identity": "C:\\Users\\User\\.nuget\\packages\\telerik.ui.for.blazor\\3.7.0\\staticwebassets\\css\\kendo-theme-bootstrap\\all.css",

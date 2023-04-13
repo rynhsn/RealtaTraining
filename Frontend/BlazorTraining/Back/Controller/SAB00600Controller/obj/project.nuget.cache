@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v7y7RkSX9aQTVnZUB7qqq6dn2mTXcKaYv/vmWlXyva5/Y0OO8FNeuILl7JLInFWeeGu5BsDih0PCXSANlhf1HA==",
+  "dgSpecHash": "05eb5bmopntlPPDbMMLetV+yljY2q5VhmqLrLg+Ho9KTW4xWx+ORySI0hrv4C1rMY3yGfs57d2xJ0u0HDbAdwg==",
   "success": true,
-  "projectFilePath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Back\\Controller\\SAB00600Controller\\SAB00600Controller.csproj",
+  "projectFilePath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Back\\Controller\\SAB00600Controller\\SAB00600Controller.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

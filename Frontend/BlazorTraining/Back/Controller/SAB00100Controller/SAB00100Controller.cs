@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using R_BackEnd;
 using R_Common;
 using R_CommonFrontBackAPI;
 using SAB00100Back;
@@ -89,7 +90,35 @@ namespace SAB00100Controller
                 var loCls = new SAB00100Cls();
 
                 var loResult = loCls.GetAllEmployee();
-                loRtn = new SAB00100ListEmployeeDTO { Data = loResult };
+                var loConvert = R_Utility.R_ConvertCollectionToCollection<SAB00100DTO, SAB00100GridDTO>(loResult).ToList();
+                loRtn = new SAB00100ListEmployeeDTO { Data = loConvert };
+            }
+            catch (Exception ex)
+            {
+                loEx.Add(ex);
+            }
+
+            loEx.ThrowExceptionIfErrors();
+
+            return loRtn;
+        }
+
+        [HttpPost]
+        public SAB00100ListEmployeeOriginalDTO GetAllEmployeeOriginal()
+        {
+            var loEx = new R_Exception();
+            SAB00100ListEmployeeOriginalDTO loRtn = null;
+
+            try
+            {
+                var lcCompId = R_BackGlobalVar.COMPANY_ID;
+                var lcUserId = R_BackGlobalVar.USER_ID;
+                // var lcCulture = R_BackGlobalVar.CULTURE_MENU;
+
+                var loCls = new SAB00100Cls();
+
+                var loResult = loCls.GetAllEmployee();
+                loRtn = new SAB00100ListEmployeeOriginalDTO { Data = loResult };
             }
             catch (Exception ex)
             {

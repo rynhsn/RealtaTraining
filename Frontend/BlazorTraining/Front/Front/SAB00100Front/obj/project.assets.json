@@ -603,11 +603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\Front\\SAB00100Front\\SAB00100Front.csproj",
+      "projectUniqueName": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB00100Front\\SAB00100Front.csproj",
       "projectName": "SAB00100Front",
-      "projectPath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\Front\\SAB00100Front\\SAB00100Front.csproj",
+      "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB00100Front\\SAB00100Front.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\Front\\SAB00100Front\\obj\\",
+      "outputPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB00100Front\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -626,11 +626,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\Resources\\SAB00100FrontResources\\SAB00100FrontResources.csproj": {
-              "projectPath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\Resources\\SAB00100FrontResources\\SAB00100FrontResources.csproj"
+            "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Resources\\SAB00100FrontResources\\SAB00100FrontResources.csproj": {
+              "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Resources\\SAB00100FrontResources\\SAB00100FrontResources.csproj"
             },
-            "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\ViewModel\\SAB00100Model\\SAB00100Model.csproj": {
-              "projectPath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\ViewModel\\SAB00100Model\\SAB00100Model.csproj"
+            "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\ViewModel\\SAB00100Model\\SAB00100Model.csproj": {
+              "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\ViewModel\\SAB00100Model\\SAB00100Model.csproj"
             }
           }
         }

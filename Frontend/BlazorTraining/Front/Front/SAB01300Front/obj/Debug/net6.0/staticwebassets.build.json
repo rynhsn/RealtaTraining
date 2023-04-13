@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SiTjPgbuA81MIJA7hKa18u+bjOSeR/9/MKv3gXt2N/4=",
+  "Hash": "8a48Xb76chEV76vOHvcyFwNANel8EiYyUpv2BIjAh8c=",
   "Source": "SAB01300Front",
   "BasePath": "_content/SAB01300Front",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "SAB01300Front\\wwwroot",
       "Source": "SAB01300Front",
-      "ContentRoot": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\Front\\SAB01300Front\\wwwroot\\",
+      "ContentRoot": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB01300Front\\wwwroot\\",
       "BasePath": "_content/SAB01300Front",
       "Pattern": "**"
     }

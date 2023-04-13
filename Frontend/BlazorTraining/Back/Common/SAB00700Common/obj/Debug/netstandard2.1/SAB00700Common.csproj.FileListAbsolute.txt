@@ -50,3 +50,16 @@ D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj
 D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.AssemblyInfo.cs
 D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.csproj.CoreCompileInputs.cache
 D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.csproj.CopyComplete
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\bin\Debug\netstandard2.1\SAB00700Common.deps.json
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\bin\Debug\netstandard2.1\SAB00700Common.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\bin\Debug\netstandard2.1\SAB00700Common.pdb
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\bin\Debug\netstandard2.1\R_APICommonDTO.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\bin\Debug\netstandard2.1\R_CommonFrontBackAPI.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.csproj.AssemblyReference.cache
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.AssemblyInfoInputs.cache
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.AssemblyInfo.cs
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.csproj.CopyComplete
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Common\SAB00700Common\obj\Debug\netstandard2.1\SAB00700Common.pdb

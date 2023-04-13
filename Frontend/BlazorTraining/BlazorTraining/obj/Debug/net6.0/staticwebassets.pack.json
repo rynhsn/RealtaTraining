@@ -1,91 +1,91 @@
 {
   "Files": [
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\obj\\Debug\\net6.0\\build-gz\\YMJETHQM.gz",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\obj\\Debug\\net6.0\\build-gz\\YMJETHQM.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorTraining.styles.css",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorTraining.styles.css",
       "PackagePath": "staticwebassets\\BlazorTraining.styles.css"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\appsettings.json",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\app.css",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\layout.css",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\layout.css",
       "PackagePath": "staticwebassets\\css\\layout.css"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\favicon.ico",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\icon-192.png",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\index.html",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\js\\R_BlazorMenuJsInterop.js",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\js\\R_BlazorMenuJsInterop.js",
       "PackagePath": "staticwebassets\\js\\R_BlazorMenuJsInterop.js"
     },
     {
-      "Id": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\sample-data\\weather.json",
+      "Id": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTraining\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {

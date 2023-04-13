@@ -79,6 +79,10 @@ namespace BlazorTraining.Extensions
 
             CultureInfo.DefaultThreadCurrentCulture = loCulture;
             CultureInfo.DefaultThreadCurrentUICulture = loCulture;
+            
+            var loClientHelper = host.Services.GetRequiredService<IClientHelper>();
+            loClientHelper.Set_UserId("CP");
+            loClientHelper.Set_CompanyId("001");
         }
     }
 }

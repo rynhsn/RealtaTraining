@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj": {}
+    "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj": {}
   },
   "projects": {
-    "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj": {
+    "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj",
+        "projectUniqueName": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj",
         "projectName": "BlazorMVVM",
-        "projectPath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj",
+        "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorMVVM\\obj\\",
+        "outputPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorMVVM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

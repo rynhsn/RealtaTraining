@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ywO5n0NSNvzh/t+MwwGO16WUpcQCwMoFA/rEKOnQRK1FtdBiGISAmpm36ov6Al9GMu6bTJSEo7rRS+39PWD8mw==",
+  "dgSpecHash": "8wqhLaR4l/UESAoBfVzbwLLhZ60dCEstwKTTjnNgxLw8jxQhMuHEGUHuVellWEw6CDavtJLryDdUqm6qBFySHg==",
   "success": true,
-  "projectFilePath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTrainingApi\\BlazorTrainingApi.csproj",
+  "projectFilePath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTrainingApi\\BlazorTrainingApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\log4net\\2.0.13\\log4net.2.0.13.nupkg.sha512",

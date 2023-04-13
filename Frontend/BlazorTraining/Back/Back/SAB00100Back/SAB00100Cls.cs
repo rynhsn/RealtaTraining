@@ -87,10 +87,33 @@ namespace SAB00100Back
             loEx.ThrowExceptionIfErrors();
         }
 
-        public List<SAB00100GridDTO> GetAllEmployee()
+        // public List<SAB00100GridDTO> GetAllEmployee()
+        // {
+        //     var loEx = new R_Exception();
+        //     List<SAB00100GridDTO> loResult = null;
+        //
+        //     try
+        //     {
+        //         var loDb = new R_Db();
+        //         var loConn = loDb.GetConnection("NorthwindConnectionString");
+        //
+        //         var lcQuery = "SELECT * FROM Employees (NOLOCK)";
+        //         loResult = loDb.SqlExecObjectQuery<SAB00100GridDTO>(lcQuery, loConn, true);
+        //     }
+        //     catch (Exception ex)
+        //     {
+        //         loEx.Add(ex);
+        //     }
+        //
+        //     loEx.ThrowExceptionIfErrors();
+        //
+        //     return loResult;
+        // }
+        
+        public List<SAB00100DTO> GetAllEmployee()
         {
             var loEx = new R_Exception();
-            List<SAB00100GridDTO> loResult = null;
+            List<SAB00100DTO> loResult = null;
 
             try
             {
@@ -98,7 +121,7 @@ namespace SAB00100Back
                 var loConn = loDb.GetConnection("NorthwindConnectionString");
 
                 var lcQuery = "SELECT * FROM Employees (NOLOCK)";
-                loResult = loDb.SqlExecObjectQuery<SAB00100GridDTO>(lcQuery, loConn, true);
+                loResult = loDb.SqlExecObjectQuery<SAB00100DTO>(lcQuery, loConn, true);
             }
             catch (Exception ex)
             {

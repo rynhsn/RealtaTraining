@@ -18,3 +18,13 @@ D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug
 D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.csproj.CoreCompileInputs.cache
 D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.dll
 D:\TrainingRealta\Latihan\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.pdb
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\bin\Debug\netstandard2.1\BlazorTrainingCommon.deps.json
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\bin\Debug\netstandard2.1\BlazorTrainingCommon.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\bin\Debug\netstandard2.1\BlazorTrainingCommon.pdb
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.csproj.AssemblyReference.cache
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.AssemblyInfoInputs.cache
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.AssemblyInfo.cs
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.csproj.CoreCompileInputs.cache
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.dll
+D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\BlazorTrainingCommon\obj\Debug\netstandard2.1\BlazorTrainingCommon.pdb

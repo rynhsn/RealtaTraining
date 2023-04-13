@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SAB00100Controller
-build_property.ProjectDir = D:\TrainingRealta\Latihan\Frontend\BlazorTraining\Back\Controller\SAB00100Controller\
+build_property.ProjectDir = D:\TrainingRealta\RealtaTraining\Frontend\BlazorTraining\Back\Controller\SAB00100Controller\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XQdeJ0IstJL/6b1ax3wLBTukUUkKfLVSwcXaN4nD85pVS+A/F8YS7iMINSImvhDEn6qtluK+Cxl/8/5yjWM9Hw==",
+  "dgSpecHash": "xQw4R61riRiV0OxtMIe1qH0z4eZFEzd0YXGtPeNhvoknGzIDhaeeBJnDLnGJinzHaRCy1J5+k2Obf6yaEsKJYA==",
   "success": true,
-  "projectFilePath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorTrainingCommon\\BlazorTrainingCommon.csproj",
+  "projectFilePath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorTrainingCommon\\BlazorTrainingCommon.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

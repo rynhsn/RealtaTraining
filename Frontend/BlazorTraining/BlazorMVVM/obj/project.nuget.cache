@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HGXVT3MIA5rV4ZustkaSPe1rR2zbmyGTQh/mKb2PLHiT6L+y5btX/auqJhqm/FfFq9XNgtn4RIUTcQUcjON5xg==",
+  "dgSpecHash": "sr6v2/15SAJxpCgEiEe9J6+ef53VeJt1QnHMA8l6f/3CSXGiJaVLS28wXjct1TxpPDXEOG5joYxTDjcs5vhcpw==",
   "success": true,
-  "projectFilePath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj",
+  "projectFilePath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorMVVM\\BlazorMVVM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.15\\microsoft.aspnetcore.authorization.6.0.15.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.15\\microsoft.aspnetcore.components.6.0.15.nupkg.sha512",

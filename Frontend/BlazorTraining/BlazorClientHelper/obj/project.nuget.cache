@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5wd4wQ1buSxZ/Ey3hWaACvQ4aIS99J84opMiCC8biytKsrzFTNK4Ra+4Nj0CStzjIi8zJq8/1vYp6oiFkWylQ==",
+  "dgSpecHash": "ALeiIds32YC2NCUESTRSurefoS8Stf3Yy8yvfblGaitSfouRlsoeWhqXY39MPPFKEF2g5r07naqpVDwNceojnA==",
   "success": true,
-  "projectFilePath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\BlazorClientHelper\\BlazorClientHelper.csproj",
+  "projectFilePath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorClientHelper\\BlazorClientHelper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

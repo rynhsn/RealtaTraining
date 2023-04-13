@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zUh6QK9tR9KaxSTbRMWqfEoWO9ZctcHugr8m55CGjKHjWba4wf6ADwiLfQpEUUk0Rk6JNAoEJfMLMyO3WU69KA==",
+  "dgSpecHash": "nJiQCVTTjNUV5rOo9MFqoSyGTEP3lqGkLACXdTECQguTJ/DtxQAIbk/pRhcnCoUsK9EW+ZGEIJ7xawv27M2wyw==",
   "success": true,
-  "projectFilePath": "D:\\TrainingRealta\\Latihan\\Frontend\\BlazorTraining\\Front\\ViewModel\\SAB00600Model\\SAB00600Model.csproj",
+  "projectFilePath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\ViewModel\\SAB00600Model\\SAB00600Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
