@@ -18,7 +18,7 @@ namespace SAB01300Model
             bool plSendWithContext = true,
             bool plSendWithToken = true)
             : base(pcHttpClientName, pcRequestServiceEndPoint, plSendWithContext, plSendWithToken)
-        {
+        {   
         }
 
         #region GetAllProduct

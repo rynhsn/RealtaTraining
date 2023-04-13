@@ -19,6 +19,7 @@
     <ProjectReference Include="..\Back\Controller\SAB00700Controller\SAB00700Controller.csproj" />
     <ProjectReference Include="..\Back\Controller\SAB00900Controller\SAB00900Controller.csproj" />
     <ProjectReference Include="..\Back\Controller\SAB01300Controller\SAB01300Controller.csproj" />
+    <ProjectReference Include="..\Back\SAB00300Controller\SAB00300Controller.csproj" />
   </ItemGroup>
 
   <ItemGroup>
