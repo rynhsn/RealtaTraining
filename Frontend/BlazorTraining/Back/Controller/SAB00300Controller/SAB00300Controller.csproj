@@ -12,19 +12,22 @@
 
     <ItemGroup>
       <Reference Include="R_APIBackEnd">
-        <HintPath>..\..\Dll Back\R_APIBackEnd.dll</HintPath>
+        <HintPath>..\..\..\Dll Back\R_APIBackEnd.dll</HintPath>
       </Reference>
       <Reference Include="R_APICommon">
-        <HintPath>..\..\Dll Back\R_APICommon.dll</HintPath>
+        <HintPath>..\..\..\Dll Back\R_APICommon.dll</HintPath>
       </Reference>
       <Reference Include="R_CommonFrontBackAPI">
-        <HintPath>..\..\Dll Back\R_CommonFrontBackAPI.dll</HintPath>
+        <HintPath>..\..\..\Dll Back\R_CommonFrontBackAPI.dll</HintPath>
+      </Reference>
+      <Reference Include="R_ContextBackEnd">
+        <HintPath>..\..\..\Dll Back\R_ContextBackEnd.dll</HintPath>
       </Reference>
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Back\SAB00300Back\SAB00300Back.csproj" />
-      <ProjectReference Include="..\Common\SAB00300Common\SAB00300Common.csproj" />
+      <ProjectReference Include="..\..\Common\SAB00300Common\SAB00300Common.csproj" />
+      <ProjectReference Include="..\..\Back\SAB00300Back\SAB00300Back.csproj" />
     </ItemGroup>
 
 </Project>

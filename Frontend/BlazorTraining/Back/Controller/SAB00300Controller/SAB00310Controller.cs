@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using R_BackEnd;
 using R_Common;
 using R_CommonFrontBackAPI;
 using SAB00300Back;
@@ -80,7 +81,7 @@ public class SAB00310Controller : ControllerBase, ISAB00310
     }
 
     [HttpPost]
-    public SAB00300ListDTO<SAB00310DTO> GetAllTerritories()
+    public SAB00300ListDTO<SAB00310DTO> GetAllTerritory()
     {
         var loEx = new R_Exception();
         SAB00300ListDTO<SAB00310DTO> loRtn = null;
@@ -103,7 +104,7 @@ public class SAB00310Controller : ControllerBase, ISAB00310
     }
 
     [HttpPost]
-    public SAB00300ListDTO<SAB00310DTO> GetAllTerritoriesByRegion(int piRegionId)
+    public SAB00300ListDTO<SAB00310DTO> GetAllTerritoryByRegion(int piRegionId)
     {
         var loEx = new R_Exception();
         SAB00300ListDTO<SAB00310DTO> loRtn = null;
@@ -123,5 +124,40 @@ public class SAB00310Controller : ControllerBase, ISAB00310
         loEx.ThrowExceptionIfErrors();
 
         return loRtn;
+    }
+
+    [HttpPost]
+    public IAsyncEnumerable<SAB00310DTO> GetAllTerritoryByRegionStream()
+    {
+        var loEx = new R_Exception();
+        IAsyncEnumerable<SAB00310DTO> loRtn = null;
+
+        try
+        {
+            var liRegionId = R_Utility.R_GetStreamingContext<string>(ContextConstant.REGION_ID);
+            var loCls = new SAB00310Cls();
+
+            var loResult = loCls.GetAllTerritoryByRegion(Convert.ToInt16(liRegionId));
+
+            loRtn = GetTerritoryStream(loResult);
+        }
+        catch (Exception ex)
+        {
+            loEx.Add(ex);
+        }
+
+        loEx.ThrowExceptionIfErrors();
+
+        return loRtn;
+    }
+
+
+    private async IAsyncEnumerable<SAB00310DTO> GetTerritoryStream(List<SAB00310DTO> poParameter)
+    {
+        foreach (SAB00310DTO item in poParameter)
+        {
+            await Task.Delay(10);
+            yield return item;
+        }
     }
 }

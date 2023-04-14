@@ -1133,6 +1133,46 @@
           "bin/placeholder/SAB00200Model.dll": {}
         }
       },
+      "SAB00300Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/SAB00300Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAB00300Common.dll": {}
+        }
+      },
+      "SAB00300Front/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlazorClientHelper": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "6.0.15",
+          "SAB00300Model": "1.0.0",
+          "Telerik.UI.for.Blazor": "3.7.0"
+        },
+        "compile": {
+          "bin/placeholder/SAB00300Front.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAB00300Front.dll": {}
+        }
+      },
+      "SAB00300Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "SAB00100Common": "1.0.0",
+          "SAB00300Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SAB00300Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAB00300Model.dll": {}
+        }
+      },
       "SAB00600Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
@@ -2552,6 +2592,46 @@
         },
         "runtime": {
           "bin/placeholder/SAB00200Model.dll": {}
+        }
+      },
+      "SAB00300Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/SAB00300Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAB00300Common.dll": {}
+        }
+      },
+      "SAB00300Front/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlazorClientHelper": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "6.0.15",
+          "SAB00300Model": "1.0.0",
+          "Telerik.UI.for.Blazor": "3.7.0"
+        },
+        "compile": {
+          "bin/placeholder/SAB00300Front.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAB00300Front.dll": {}
+        }
+      },
+      "SAB00300Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "SAB00100Common": "1.0.0",
+          "SAB00300Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SAB00300Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAB00300Model.dll": {}
         }
       },
       "SAB00600Common/1.0.0": {
@@ -5648,6 +5728,21 @@
       "path": "../Front/ViewModel/SAB00200Model/SAB00200Model.csproj",
       "msbuildProject": "../Front/ViewModel/SAB00200Model/SAB00200Model.csproj"
     },
+    "SAB00300Common/1.0.0": {
+      "type": "project",
+      "path": "../Back/Common/SAB00300Common/SAB00300Common.csproj",
+      "msbuildProject": "../Back/Common/SAB00300Common/SAB00300Common.csproj"
+    },
+    "SAB00300Front/1.0.0": {
+      "type": "project",
+      "path": "../Front/Front/SAB00300Front/SAB00300Front.csproj",
+      "msbuildProject": "../Front/Front/SAB00300Front/SAB00300Front.csproj"
+    },
+    "SAB00300Model/1.0.0": {
+      "type": "project",
+      "path": "../Front/ViewModel/SAB00300Model/SAB00300Model.csproj",
+      "msbuildProject": "../Front/ViewModel/SAB00300Model/SAB00300Model.csproj"
+    },
     "SAB00600Common/1.0.0": {
       "type": "project",
       "path": "../Back/Common/SAB00600Common/SAB00600Common.csproj",
@@ -5728,9 +5823,9 @@
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.15",
       "Microsoft.Extensions.Http >= 7.0.0",
       "Realta.FrontComponentCollectionNuget >= 1.0.1",
-      "SAB00100Common >= 1.0.0",
       "SAB00100Front >= 1.0.0",
       "SAB00200Front >= 1.0.0",
+      "SAB00300Front >= 1.0.0",
       "SAB00600Front >= 1.0.0",
       "SAB00700Front >= 1.0.0",
       "SAB00900Front >= 1.0.0",
@@ -5767,9 +5862,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Back\\Common\\SAB00100Common\\SAB00100Common.csproj": {
-              "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Back\\Common\\SAB00100Common\\SAB00100Common.csproj"
-            },
             "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorClientHelper\\BlazorClientHelper.csproj": {
               "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\BlazorClientHelper\\BlazorClientHelper.csproj"
             },
@@ -5781,6 +5873,9 @@
             },
             "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB00200Front\\SAB00200Front.csproj": {
               "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB00200Front\\SAB00200Front.csproj"
+            },
+            "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB00300Front\\SAB00300Front.csproj": {
+              "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB00300Front\\SAB00300Front.csproj"
             },
             "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB00600Front\\SAB00600Front.csproj": {
               "projectPath": "D:\\TrainingRealta\\RealtaTraining\\Frontend\\BlazorTraining\\Front\\Front\\SAB00600Front\\SAB00600Front.csproj"

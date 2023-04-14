@@ -18,7 +18,7 @@ public class SAB00310Cls:R_BusinessObject<SAB00310DTO>
             var loDb = new R_Db();
             var loConn = loDb.GetConnection("NorthwindConnectionString");
 
-            var lcQuery = "SELECT * FROM Territoriess (NOLOCK) WHERE TerritoryID = @TerritoryID";
+            var lcQuery = "SELECT * FROM Territories (NOLOCK) WHERE TerritoryID = @TerritoryID";
 
             var loCmd = loDb.GetCommand();
             loCmd.CommandText = lcQuery;
@@ -51,17 +51,15 @@ public class SAB00310Cls:R_BusinessObject<SAB00310DTO>
             var loCmd = loDb.GetCommand();
             if (poCRUDMode == eCRUDMode.AddMode)
             {
-                lcQuery = "INSERT INTO Territories(TerritoryDescription, RegionID)";
-                lcQuery += "VALUES(@TerritoryDescription, @RegionID)";
-                lcQuery += "SELECT SCOPE_IDENTITY()";
+                lcQuery = "INSERT INTO Territories (TerritoryID, TerritoryDescription, RegionID) ";
+                lcQuery += "VALUES (@TerritoryID, @TerritoryDescription, @RegionID) ";
 
                 loCmd.CommandText = lcQuery;
+                loCmd.AddParameter("@TerritoryID", poNewEntity.TerritoryID);
                 loCmd.AddParameter("@TerritoryDescription", poNewEntity.TerritoryDescription);
                 loCmd.AddParameter("@RegionID", poNewEntity.RegionID);
 
-                var loResult = loDb.SqlExecQuery(loConn, loCmd, true);
-
-                poNewEntity.TerritoryID = Convert.ToString(loResult.Rows[0].ItemArray[0]);
+                loDb.SqlExecNonQuery(loConn, loCmd, true);
 
                 return;
             }
@@ -145,6 +143,7 @@ public class SAB00310Cls:R_BusinessObject<SAB00310DTO>
             var lcQuery = "SELECT * FROM Territories (NOLOCK) ";
             lcQuery += $"WHERE RegionID = {piRegionId} ";
             loResult = loDb.SqlExecObjectQuery<SAB00310DTO>(lcQuery, loConn, true);
+            loResult.ForEach(e => e.TerritoryDescription.Trim());
         }
         catch (Exception ex)
         {

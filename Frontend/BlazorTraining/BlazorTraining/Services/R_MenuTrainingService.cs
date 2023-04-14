@@ -124,6 +124,19 @@ namespace BlazorTraining.Services
                 IGROUP_INDEX = 0
             });
 
+            loResult.Add(new MenuListDTO
+            {
+                CMENU_ID = "Ex",
+                CMENU_NAME = "Example",
+                CPARENT_SUB_MENU_ID = "G001",
+                CSUB_MENU_ACCESS = "A,U,D,P,V",
+                CSUB_MENU_ID = "SAB00300",
+                CSUB_MENU_NAME = "Training Original Navigator",
+                CSUB_MENU_TYPE = "P",
+                IFAVORITE_INDEX = 0,
+                IGROUP_INDEX = 0
+            });
+
             return Task.FromResult(loResult);
         }
 
@@ -170,6 +183,12 @@ namespace BlazorTraining.Services
             loResult.Add(new MenuProgramAccessDTO
             {
                 CPROGRAM_ID = "SAB00200",
+                CACCESS_ID = "A,U,D,P,V"
+            });
+
+            loResult.Add(new MenuProgramAccessDTO
+            {
+                CPROGRAM_ID = "SAB00300",
                 CACCESS_ID = "A,U,D,P,V"
             });
 

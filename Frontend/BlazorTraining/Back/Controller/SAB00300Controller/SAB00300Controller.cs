@@ -79,7 +79,7 @@ public class SAB00300Controller : ControllerBase, ISAB00300
     }
     
     [HttpPost]
-    public SAB00300ListDTO<SAB00300DTO> GetAllRegions()
+    public SAB00300ListDTO<SAB00300DTO> GetAllRegion()
     {
         var loEx = new R_Exception();
         SAB00300ListDTO<SAB00300DTO> loRtn = null;
@@ -88,7 +88,7 @@ public class SAB00300Controller : ControllerBase, ISAB00300
         {
             var loCls = new SAB00300Cls();
 
-            var loResult = loCls.GetCategories();
+            var loResult = loCls.GetAllRegion();
             loRtn = new SAB00300ListDTO<SAB00300DTO> { Data = loResult };
         }
         catch (Exception ex)
@@ -99,5 +99,42 @@ public class SAB00300Controller : ControllerBase, ISAB00300
         loEx.ThrowExceptionIfErrors();
 
         return loRtn;
+    }
+    
+    [HttpPost]
+    public IAsyncEnumerable<SAB00300DTO> GetAllRegionStream()
+    {
+        var loEx = new R_Exception();
+        IAsyncEnumerable<SAB00300DTO> loRtn = null;
+
+        try
+        {
+            //var lcCompId = R_BackGlobalVar.COMPANY_ID;
+            //var lcUserId = R_BackGlobalVar.USER_ID;
+
+            var loCls = new SAB00300Cls();
+
+            var loResult = loCls.GetAllRegion();
+
+            loRtn = GetRegionStream(loResult);
+        }
+        catch (Exception ex)
+        {
+            loEx.Add(ex);
+        }
+
+        loEx.ThrowExceptionIfErrors();
+
+        return loRtn;
+    }
+
+
+    private async IAsyncEnumerable<SAB00300DTO> GetRegionStream(List<SAB00300DTO> poParameter)
+    {
+        foreach (SAB00300DTO item in poParameter)
+        {
+            await Task.Delay(10);
+            yield return item;
+        }
     }
 }

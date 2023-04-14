@@ -42,8 +42,8 @@ public class SAB00300Cls : R_BusinessObject<SAB00300DTO>
 
             if (poCRUDMode == eCRUDMode.AddMode)
             {
-                lcQuery = "INSERT INTO Region (RegionDescription) ";
-                lcQuery += $"VALUES ('{poNewEntity.RegionDescription}')";
+                lcQuery = "INSERT INTO Region (RegionID, RegionDescription) ";
+                lcQuery += $"VALUES ('{poNewEntity.RegionID}', '{poNewEntity.RegionDescription}')";
                 loDb.SqlExecNonQuery(lcQuery, loConn, true);
 
                 return;
@@ -81,7 +81,7 @@ public class SAB00300Cls : R_BusinessObject<SAB00300DTO>
         loEx.ThrowExceptionIfErrors();
     }
     
-    public List<SAB00300DTO> GetCategories()
+    public List<SAB00300DTO> GetAllRegion()
     {
         var loEx = new R_Exception();
         List<SAB00300DTO> loResult = null;
